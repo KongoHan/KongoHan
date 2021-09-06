@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KongoHan
 - 👀 I’m interested in NLP with Eastern Language & English
 - 🌱 I’m currently learning basic Programming for NLP
+- 🌱 I'm currently studying Algorithm
 - 📫 How to reach me countbox123@gmail.com
 
 <!---
